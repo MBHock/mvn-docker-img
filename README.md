@@ -1,2 +1,0 @@
-# gpi-mvn-image
-
