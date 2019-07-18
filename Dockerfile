@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-MAINTAINER Mojammal Hock <mojammal.hock@adesso.de>
+MAINTAINER Mojammal Hock <mojammal.hock@gmail.com>
 
 ENV MAVEN_VERSION=3.6.1
 ENV MAVEN_HOME=/usr/share/maven
